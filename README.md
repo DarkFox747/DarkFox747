@@ -1,30 +1,34 @@
-<h1 align="center">Hola 👋  soy Diego Soler ✨ </h1> 
+<h1 align="center">Hola 👋 Soy Diego Soler ✨</h1>
 
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+## 💻 Sobre mí
+- 🎓 Estudiante de Licenciatura en Informática - Cursando 4º año
+- 🔧 Especializado en análisis de datos con Python y automatización
+- 🌱 Actualmente explorando el desarrollo web con React
+- 💼 Experiencia como Soporte Técnico Nivel 2 y desarrollador freelance
+- 🚀 Apasionado por resolver problemas complejos y la automatización
 
-<p align="left">
-🎓 Soy Estudiante de Licenciatura en Informatica - Cusando 4 año de la carrera
-
-💻 Tengo experiencia como soporte Tenico en infraestructura, Analista de Datos y desarrollador web
-
-📝 roles en el ámbito: Soprote Tecnico Nivel 2 y programador freelance
-
-📫 Contacto: **dfsoler13@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,php,py,dotnet,css,html,js,nodejs,mysql,sqlite,git,github,docker,postman,vscode,bash,linux,ai&perline=12" />
-  </a>
+## 🛠️ Tecnologías y Herramientas
+### Lenguajes de Programación:
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,cs,java,cpp&perline=8" />
 </p>
-<br>
-<!-------------------------->
 
+### Desarrollo Web:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&perline=8" />
+</p>
 
-</p>        
-<!--- stats (end) -->
+### Bases de Datos y DevOps:
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git&perline=8" />
+</p>
+
+## 📜 Certificaciones
+- AWS Cloud Practitioner
+- Google Data Analytics Certificate
+- Desarrollo web Front-End - Plataforma 5
+
+## 📫 Contacto
+- Email: dfsoler13@gmail.com
+- LinkedIn: [in/solerdiegof](https://linkedin.com/in/solerdiegof)
+- GitHub: [@DarkFox747](https://github.com/DarkFox747)
