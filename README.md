@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Diego SOler ✨ </h1> 
+<h1 align="center">Hola 👋  soy Diego Soler ✨ </h1> 
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
