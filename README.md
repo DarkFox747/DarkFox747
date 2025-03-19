@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologías y Herramientas
 ### Lenguajes de Programación:
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,cs,java,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,js,cs,java&perline=8" />
 </p>
 
 ### Desarrollo Web:
