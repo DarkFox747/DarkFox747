@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋 Soy Diego Soler ✨</h1>
 
 ## 💻 Sobre mí
+- 💼 Full stack developer en crombie - Miembro del CoE y desarrollador principal
 - 🎓 Estudiante de Licenciatura en Informática - Cursando 4º año
 - 🔧 Especializado en análisis de datos con Python y automatización
 - 🌱 Actualmente explorando el desarrollo web con React
